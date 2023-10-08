@@ -6,3 +6,5 @@ what is git?
 why should i learn it?
 
 i see.
+
+learn branch
